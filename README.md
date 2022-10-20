@@ -169,7 +169,7 @@ after that i saw a secret.txt ther
 
 ![secret.txt](./infosec/secret_txt.png)
 
-with some encerpted text 
+with some decoded text 
 
 decode this text with cmd :
 ![decode](./infosec/decodesecret_txt.png)
